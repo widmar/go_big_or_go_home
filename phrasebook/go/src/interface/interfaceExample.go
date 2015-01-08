@@ -29,7 +29,7 @@ func main() {
   // s := "string"
   // printer = s
   // produces:
-//# interface
-//./interface.go:78: cannot use s (type string) as type Printer in assignment:
+//# interfaceExample
+//./interfaceExample.go:78: cannot use s (type string) as type Printer in assignment:
 //	string does not implement Printer (missing Print method)
 }

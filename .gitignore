@@ -1,0 +1,5 @@
+'go output paths
+bin/
+pkg/
+
+*.swp

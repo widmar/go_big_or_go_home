@@ -62,3 +62,11 @@ widst001:hello wid$
 
 more here:
 https://groups.google.com/forum/#!topic/golang-nuts/J5NP0Y6nnYE
+
+to upgrade (macos):
+rm (or mv) $GOROOT (eg mv /usr/local/go /usr/local/go1.2)
+
+download latest (eg https://golang.org/dl/, go1.4.darwin-amd64-osx10.8.pkg for macos)
+
+install
+

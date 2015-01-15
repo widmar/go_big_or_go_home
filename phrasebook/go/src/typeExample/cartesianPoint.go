@@ -1,4 +1,4 @@
-package ifeg
+package main
 
 import "fmt"
 

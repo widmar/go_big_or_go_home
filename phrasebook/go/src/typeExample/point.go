@@ -1,4 +1,4 @@
-package ifeg
+package main
 
 type Point interface {
   Printer

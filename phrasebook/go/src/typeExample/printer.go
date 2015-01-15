@@ -1,4 +1,4 @@
-package ifeg
+package main
 
 /**
  * Type capable of printing... notice Print/Printer (*er) association.
